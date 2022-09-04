@@ -1,0 +1,18 @@
+.red {
+  background-color: red;
+  color: white;
+  margin: 50px;
+  padding: 30px;
+}
+
+.green {
+  background-color: green;
+  color: aqua;
+}
+
+.container {
+  margin: 100px;
+  border: 10px solid black;
+  padding: 30px;
+  background-color: aqua;
+}
